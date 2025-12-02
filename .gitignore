@@ -17,3 +17,4 @@ wheels/
 # Project specific
 qdrant_storage/
 uploads/
+EXPLANATORY.md
